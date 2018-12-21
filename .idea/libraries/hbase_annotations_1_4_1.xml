@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hbase-annotations-1.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/lib/hbase-annotations-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

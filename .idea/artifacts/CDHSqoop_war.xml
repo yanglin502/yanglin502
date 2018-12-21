@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CDHSqoop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sqoop.war">
+      <element id="artifact" artifact-name="CDHSqoop:war exploded" />
+    </root>
+  </artifact>
+</component>
